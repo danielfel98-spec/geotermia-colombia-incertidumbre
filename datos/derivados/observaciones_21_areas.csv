@@ -1,0 +1,22 @@
+area,id_area,T_observada_C,sigma_C,nivel_evidencia
+San Diego,SD,240.0,75.0,debil
+Volcán de Santa Rosa,VSR,200.0,55.9,fuerte
+Volcán Cerro Machín,VCM,200.0,40.300000000000004,fuerte
+Caldera del Paletará,CP,185.0,22.75,fuerte
+Nereidas-Botero Londoño,NBL,210.0,20.0,muy fuerte
+Volcán Nevado del Tolima,VNT,150.0,50.574999999999996,media
+Volcán Azufral,VAZ,220.0,33.15,fuerte
+Volcán Cerro Bravo,VCB,150.0,68.425,media
+Hacienda Granates,HG,132.0,50.0,debil
+Chiles - Cerro Negro,CHCN,225.0,12.5,muy fuerte
+Paipa,PP,180.0,81.25,fuerte
+Iza,IZA,250.0,42.5,media
+Caldera Gabriel López,CGL,188.16851,49.33452256697383,geoquimica propia
+Laguna Otún,LO,103.0522,67.04338427434054,geoquimica propia
+Volcán Cumbal,VC,157.05955,45.224337508967444,geoquimica propia
+Doña Juana-Las Ánimas,VDJA,177.51600000000002,53.44792098200827,geoquimica propia
+Galeras-Morasurco,VGM,178.12075,51.54062639526637,geoquimica propia
+Volcán del Huila,VH,118.0191,45.29773445769667,geoquimica propia
+Volcán de Sibundoy,VS,138.92132,46.63597215472909,geoquimica propia
+Sotará-Sucubún,VSS,173.39372,49.542643958715004,geoquimica propia
+Villamaría-Termales,VT,202.27816,83.09380038448683,geoquimica propia
