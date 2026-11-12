@@ -1,0 +1,22 @@
+area_geotermica,mw_sgc,t_reservorio_min_c,t_reservorio_max_c,geotermometros,nivel_evidencia,t_surgencia_max_c,observacion
+San Diego,141.85,240,250,'geotermómetros conservadores' (SGC); >250 en El Escondido,debil,42,Los autores advierten explícitamente que los geotermómetros de superficie NO son confiables aquí
+Volcán de Santa Rosa,137.24,138,310,cuarzo 161-196; calcedonia 138-178; Na/K 251-273; entalpía-Cl ~310,fuerte,91,Declarada 'área de máximo interés' por Alfaro & Aguirre 2006
+Volcán Cerro Machín,129.94,126,250,cuarzo 151-214; calcedonia 126-199; Na/K 201-237; gases >250,fuerte,94,"Literatura moderna dedicada (2020, 2025) tras muro de pago"
+Caldera del Paletará,117.96,150,220,calcedonia 115-173; cuarzo 141-193; Na-K-Ca 111-230; K/Mg 74-134,fuerte,88,Gómez-Díaz & Marín-Cerón 2018: tablas completas de analitos
+Nereidas-Botero Londoño,100.72,138,260,cuarzo 138-191; Na/K ~260; SGC 230-240; MEDIDO ~200 en pozo a 1469 m,muy fuerte,93,ÚNICA con medición directa en pozo profundo
+Volcán Nevado del Tolima,82.7,91,210,cuarzo 120-181; calcedonia 91-161; ~210 solo como supuesto de modelo,media,53,Aguas inmaduras: geotermómetros catiónicos de aplicabilidad limitada
+Volcán Azufral,81.9,178,280,Na/K 179-250; cuarzo 178-180; 250-280 por ALTERACIÓN (no geotermometría),fuerte,69,~100 °C de diferencia entre el valor que usa el SGC y el límite inferior medido
+Volcán Cerro Bravo,79.73,100,261,cuarzo 128-156; calcedonia 100-132; Na/K 145-261,media,45,Na/K muy disperso y poco confiable en aguas bicarbonatadas frías
+Hacienda Granates,67.24,120,145,Na/K ~140; cuarzo ~120,debil,22,"Un solo manantial, muestreado en 1982"
+Villamaría-Termales,38.5,,,,ausente,63,pH < 2: geotermometría catiónica NO APLICABLE
+Volcanes Doña Juana-Las Ánimas,37.84,,,,ausente,,Literatura existente es exclusivamente volcanológica
+Volcanes Galeras-Morasurco,29.49,,,,ausente,45,Aguas lejos del equilibrio: geotermómetros invalidados por los autores
+Caldera Gabriel López,24.78,,,,ausente,,CERO literatura. Solo existe como etiqueta en el atlas ANH 2024
+Complejo Volcánico Chiles-Cerro Negro,23.77,200,250,Na-K-Ca ~224; gases 190-300; 245-250 en Aguas Hediondas,muy fuerte,58,La mejor documentada. Almeida 1990 estimó 138 MWe: 6x la cifra del SGC
+Paipa,20.89,85,335,cuarzo 110-120; calcedonia 85-95; gases 220-335; síntesis 120-230,fuerte,76,Discrepancia de 250 °C entre métodos; T enmascarada por mezcla salina somera
+Volcanes de Sotará-Sucubún,17.43,,,,ausente,36,"T de surgencia medidas, pero ninguna geotermometría publicada"
+Volcán Cumbal,15.66,,,,ausente,37,SGC: 'composición química no refleja contribución de reservorio'
+Iza,12.09,240,260,Na-K-Mg extrapolado (aguas muy diluidas); >250 por alteración,media,,Extrapolación en el caso donde es menos confiable
+Volcán de Sibundoy,9.8,,,,ausente,,Área definida por el SGC en 2021 SIN estudio previo publicado
+Volcán del Huila,0.1,,,,ausente,,"SGC: 'baja prioridad', manantiales de baja temperatura. Valor real, no faltante"
+Laguna Otún,0.08,,,,ausente,22,Sulfatada ácida a 21 °C: método no aplicable
